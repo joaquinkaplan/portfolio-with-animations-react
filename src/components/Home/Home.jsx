@@ -58,8 +58,8 @@ const Home = () => {
               idx={15}
             />
           </h1>
-          <Link to="/contact" className="flat-button">
-            CONTACT ME
+          <Link to="/about" className="flat-button">
+            ABOUT ME
           </Link>
         </div>
       </div>
